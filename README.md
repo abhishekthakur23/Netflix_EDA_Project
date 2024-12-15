@@ -3,7 +3,7 @@
 The Netflix EDA project focuses on exploring and analyzing a dataset related to Netflix content which likely includes details about the movies and TV shows available on the platform. The goal is to extract meaningful insights, such as content popularity, genre distribution, and viewership patterns, and draw conclusions through exploratory data analysis.
 
 
-# DATA OVERVIEW
+# Data Overview
 
 Dataset contains 8807 rows and 12 columns.
 
